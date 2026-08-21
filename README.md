@@ -23,6 +23,7 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 1 | 🟢 Easy | [Two Sum](https://leetcode.com) | Hash Map / Dictionary Lookups | $O(n)$ | $O(n)$ |
 | 242 | 🟢 Easy | [Valid Anagram](https://leetcode.com) | Frequency Counting / Dictionaries | $O(n)$ | $O(1)$ |
 | 125 | 🟢 Easy | [Valid Palindrome](https://leetcode.com) | Linear Filtering & Array Traversal | $O(n)$ | $O(n)$ |
+| 121 | 🟢 Easy | [Best Time to Buy and Sell Stock](https://leetcode.com) | Dynamic Tracking / Single-Pass Greedy | $O(n)$ | $O(1)$ |
 
 ---
 
@@ -38,8 +39,8 @@ This repository is built for continuous optimization. If you want to benchmark y
 
 ## 📈 Technical Skill Milestones
 *   **Data Structures Mastered:** Arrays, Strings, Hash Maps (Dictionaries), Sets.
-*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons.
-*   **Optimization Focus:** Eliminating nested loops and avoiding high-overhead string concatenation loops to maximize script execution speeds.
+*   **Algorithmic Frameworks:** Linear scanning, Single-pass dynamic tracking, Multi-index array comparisons.
+*   **Optimization Focus:** Eliminating nested processing loops ($O(n^2)$) down to flat, single-pass iterations ($O(n)$) to safeguard program memory bounds under extreme high-load inputs.
 
 ---
 
