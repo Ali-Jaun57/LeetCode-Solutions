@@ -24,6 +24,7 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 242 | 🟢 Easy | [Valid Anagram](https://leetcode.com) | Frequency Counting / Dictionaries | $O(n)$ | $O(1)$ |
 | 125 | 🟢 Easy | [Valid Palindrome](https://leetcode.com) | Linear Filtering & Array Traversal | $O(n)$ | $O(n)$ |
 | 121 | 🟢 Easy | [Best Time to Buy and Sell Stock](https://leetcode.com) | Dynamic Tracking / Single-Pass Greedy | $O(n)$ | $O(1)$ |
+| 217 | 🟢 Easy | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Hash Set Tracking / Unique Length Check | $O(n)$ | $O(n)$ |
 
 ---
 
