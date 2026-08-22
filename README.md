@@ -24,7 +24,7 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 242 | 🟢 Easy | [Valid Anagram](https://leetcode.com) | Frequency Counting / Dictionaries | $O(n)$ | $O(1)$ |
 | 125 | 🟢 Easy | [Valid Palindrome](https://leetcode.com) | Linear Filtering & Array Traversal | $O(n)$ | $O(n)$ |
 | 121 | 🟢 Easy | [Best Time to Buy and Sell Stock](https://leetcode.com) | Dynamic Tracking / Single-Pass Greedy | $O(n)$ | $O(1)$ |
-| 217 | 🟢 Easy | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Hash Set Tracking / Unique Length Check | $O(n)$ | $O(n)$ |
+| 217 | 🟢 Easy | [Contains Duplicate](https://leetcode.com) | Hash Set Lookups | $O(n)$ | $O(n)$ |
 
 ---
 
@@ -39,9 +39,9 @@ This repository is built for continuous optimization. If you want to benchmark y
 ---
 
 ## 📈 Technical Skill Milestones
-*   **Data Structures Mastered:** Arrays, Strings, Hash Maps (Dictionaries), Sets.
-*   **Algorithmic Frameworks:** Linear scanning, Single-pass dynamic tracking, Multi-index array comparisons.
-*   **Optimization Focus:** Eliminating nested processing loops ($O(n^2)$) down to flat, single-pass iterations ($O(n)$) to safeguard program memory bounds under extreme high-load inputs.
+*   **Data Structures Mastered:** Arrays, Strings, Hash Maps (Dictionaries), Hash Sets.
+*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication techniques.
+*   **Optimization Focus:** Eliminating nested loops to achieve optimal linear time complexity ($O(n)$) while tracking unique memory states.
 
 ---
 
