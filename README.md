@@ -25,6 +25,9 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 125 | 🟢 Easy | [Valid Palindrome](https://leetcode.com) | Linear Filtering & Array Traversal | $O(n)$ | $O(n)$ |
 | 121 | 🟢 Easy | [Best Time to Buy and Sell Stock](https://leetcode.com) | Dynamic Tracking / Single-Pass Greedy | $O(n)$ | $O(1)$ |
 | 217 | 🟢 Easy | [Contains Duplicate](https://leetcode.com) | Hash Set Lookups | $O(n)$ | $O(n)$ |
+| 14 | 🟢 Easy | [Longest Common Prefix](https://leetcode.com) | Vertical Character Scanning | $O(S)$ | $O(1)$ |
+
+*Note: For Problem 14, $S$ represents the total number of characters across all words in the input array.*
 
 ---
 
@@ -40,8 +43,8 @@ This repository is built for continuous optimization. If you want to benchmark y
 
 ## 📈 Technical Skill Milestones
 *   **Data Structures Mastered:** Arrays, Strings, Hash Maps (Dictionaries), Hash Sets.
-*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication techniques.
-*   **Optimization Focus:** Eliminating nested loops to achieve optimal linear time complexity ($O(n)$) while tracking unique memory states.
+*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices.
+*   **Optimization Focus:** Eliminating nested search bounds down to conditional early-termination strategies to minimize runtime overhead.
 
 ---
 
