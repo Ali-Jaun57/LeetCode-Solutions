@@ -26,8 +26,7 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 121 | 🟢 Easy | [Best Time to Buy and Sell Stock](https://leetcode.com) | Dynamic Tracking / Single-Pass Greedy | $O(n)$ | $O(1)$ |
 | 217 | 🟢 Easy | [Contains Duplicate](https://leetcode.com) | Hash Set Lookups | $O(n)$ | $O(n)$ |
 | 14 | 🟢 Easy | [Longest Common Prefix](https://leetcode.com) | Vertical Character Scanning | $O(S)$ | $O(1)$ |
-
-*Note: For Problem 14, $S$ represents the total number of characters across all words in the input array.*
+| 21 | 🟢 Easy | [Merge Two Sorted Lists](https://leetcode.com) | Linked List / Two-Pointer Splice | $O(n + m)$ | $O(1)$ |
 
 ---
 
@@ -42,9 +41,9 @@ This repository is built for continuous optimization. If you want to benchmark y
 ---
 
 ## 📈 Technical Skill Milestones
-*   **Data Structures Mastered:** Arrays, Strings, Hash Maps (Dictionaries), Hash Sets.
-*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices.
-*   **Optimization Focus:** Eliminating nested search bounds down to conditional early-termination strategies to minimize runtime overhead.
+*   **Data Structures Mastered:** Arrays, Strings, Hash Maps (Dictionaries), Hash Sets, Linked Lists (Singly Linked Nodes).
+*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors.
+*   **Optimization Focus:** Managing reference memory allocation pointers to restructure object trees natively within constant space complexity bounds ($O(1)$).
 
 ---
 
