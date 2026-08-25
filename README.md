@@ -27,6 +27,7 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 217 | 🟢 Easy | [Contains Duplicate](https://leetcode.com) | Hash Set Lookups | $O(n)$ | $O(n)$ |
 | 14 | 🟢 Easy | [Longest Common Prefix](https://leetcode.com) | Vertical Character Scanning | $O(S)$ | $O(1)$ |
 | 21 | 🟢 Easy | [Merge Two Sorted Lists](https://leetcode.com) | Linked List / Two-Pointer Splice | $O(n + m)$ | $O(1)$ |
+| 219 | 🟢 Easy | [Contains Duplicate II](https://leetcode.com) | Sliding Window / State Dictionaries | $O(n)$ | $O(n)$ |
 
 ---
 
@@ -42,8 +43,8 @@ This repository is built for continuous optimization. If you want to benchmark y
 
 ## 📈 Technical Skill Milestones
 *   **Data Structures Mastered:** Arrays, Strings, Hash Maps (Dictionaries), Hash Sets, Linked Lists (Singly Linked Nodes).
-*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors.
-*   **Optimization Focus:** Managing reference memory allocation pointers to restructure object trees natively within constant space complexity bounds ($O(1)$).
+*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors, Index-distance tracking hashes.
+*   **Optimization Focus:** Eradicating nested loops ($O(n^2)$) by logging positional index records to guarantee single-pass linear time operations ($O(n)$).
 
 ---
 
