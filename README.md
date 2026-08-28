@@ -29,6 +29,7 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 21 | 🟢 Easy | [Merge Two Sorted Lists](https://leetcode.com) | Linked List / Two-Pointer Splice | $O(n + m)$ | $O(1)$ |
 | 219 | 🟢 Easy | [Contains Duplicate II](https://leetcode.com) | Sliding Window / State Dictionaries | $O(n)$ | $O(n)$ |
 | 566 | 🟢 Easy | [Reshape the Matrix](https://leetcode.com) | 2D Arrays / Row-Column Flattening | $O(r \times c)$ | $O(r \times c)$ |
+| 20 | 🟢 Easy | [Valid Parentheses](https://leetcode.com) | Stacks (LIFO) / Character Matching | $O(n)$ | $O(n)$ |
 
 ---
 
@@ -43,9 +44,9 @@ This repository is built for continuous optimization. If you want to benchmark y
 ---
 
 ## 📈 Technical Skill Milestones
-*   **Data Structures Mastered:** Arrays, 2D Matrices (Grids), Strings, Hash Maps, Hash Sets, Linked Lists.
-*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors, Index-distance tracking hashes, Matrix slice rebuilding.
-*   **Optimization Focus:** Flattening nested 2D matrices into single-dimensional continuous memory maps ($O(n)$ equivalent elements space allocation).
+*   **Data Structures Mastered:** Arrays, 2D Matrices (Grids), Strings, Hash Maps, Hash Sets, Linked Lists, Stacks.
+*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors, Index-distance tracking hashes, Matrix slice rebuilding, Last-In-First-Out (LIFO) parsing loops.
+*   **Optimization Focus:** Utilizing linear stack buffers to evaluate mirrored token symmetry configurations within deterministic linear runtimes ($O(n)$).
 
 ---
 
