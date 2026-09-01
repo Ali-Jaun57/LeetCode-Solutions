@@ -31,7 +31,7 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 566 | 🟢 Easy | [Reshape the Matrix](https://leetcode.com) | 2D Arrays / Row-Column Flattening | $O(r \times c)$ | $O(r \times c)$ |
 | 20 | 🟢 Easy | [Valid Parentheses](https://leetcode.com) | Stacks (LIFO) / Character Matching | $O(n)$ | $O(n)$ |
 | 387 | 🟢 Easy | [First Unique Character in a String](https://leetcode.com) | Two-Pass Hash Map / Frequency Counting | $O(n)$ | $O(1)$ |
-| 88 | 🟢 Easy | [Merge Sorted Array](https://leetcode.com) | Three-Pointer Backward Scan | $O(m + n)$ | $O(1)$ |
+| 26 | 🟢 Easy | [Remove Duplicates from Sorted Array](https://leetcode.com) | Two-Pointer In-Place Overwriting | $O(n)$ | $O(1)$ |
 
 ---
 
@@ -47,8 +47,8 @@ This repository is built for continuous optimization. If you want to benchmark y
 
 ## 📈 Technical Skill Milestones
 *   **Data Structures Mastered:** Arrays, 2D Matrices (Grids), Strings, Hash Maps (Dictionaries), Hash Sets, Linked Lists, Stacks.
-*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors, Index-distance tracking hashes, Matrix slice rebuilding, Last-In-First-Out (LIFO) parsing loops, In-place memory modifications, Three-pointer backward traversal.
-*   **Optimization Focus:** Eliminating elements shifting overhead costs entirely by filling unallocated array trailing buffers from the back boundary inward, keeping space usage absolute constant ($O(1)$).
+*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors, Index-distance tracking hashes, Matrix slice rebuilding, Last-In-First-Out (LIFO) parsing loops, Two-pass frequency counting hashes, Fast/Slow pointer array scanning.
+*   **Optimization Focus:** Eliminating memory shifting operations ($O(n^2)$) down to flat, in-place variable overwrites to preserve absolute strict constant space constraints ($O(1)$).
 
 ---
 
