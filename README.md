@@ -31,8 +31,10 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 566 | 🟢 Easy | [Reshape the Matrix](https://leetcode.com) | 2D Arrays / Row-Column Flattening | $\mathcal{O}(r \times c)$ | $\mathcal{O}(r \times c)$ |
 | 20 | 🟢 Easy | [Valid Parentheses](https://leetcode.com) | Stacks (LIFO) / Character Matching | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
 | 387 | 🟢 Easy | [First Unique Character in a String](https://leetcode.com) | Two-Pass Hash Map / Frequency Counting | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 88 | 🟢 Easy | [Merge Sorted Array](https://leetcode.com) | Backward Three-Pointer Insertion | $\mathcal{O}(n + m)$ | $\mathcal{O}(1)$ |
 | 26 | 🟢 Easy | [Remove Duplicates from Sorted Array](https://leetcode.com) | Two-Pointer In-Place Overwriting | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 | 704 | 🟢 Easy | [Binary Search](https://leetcode.com) | Divide and Conquer / Binary Boundaries | $\mathcal{O}(\log n)$ | $\mathcal{O}(1)$ |
+| 225 | 🟢 Easy | [Implement Stack using Queues](https://leetcode.com) | Queues (FIFO) / Sequential Queue Rotation | $\mathcal{O}(1)$ push | $\mathcal{O}(n)$ |
 
 ---
 
@@ -47,9 +49,9 @@ This repository is built for continuous optimization. If you want to benchmark y
 ---
 
 ## 📈 Technical Skill Milestones
-*   **Data Structures Mastered:** Arrays, 2D Matrices (Grids), Strings, Hash Maps (Dictionaries), Hash Sets, Linked Lists, Stacks.
-*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors, Index-distance tracking hashes, Matrix slice rebuilding, Last-In-First-Out (LIFO) parsing loops, Two-pass frequency counting hashes, Fast/Slow pointer scanning, Binary space partition search.
-*   **Optimization Focus:** Cutting data lookup intervals directly in half to scale programs at extreme logarithmic processing speed bounds ($\mathcal{O}(\log n)$) without sacrificing memory footprint ($\mathcal{O}(1)$).
+*   **Data Structures Mastered:** Arrays, 2D Matrices (Grids), Strings, Hash Maps (Dictionaries), Hash Sets, Linked Lists, Stacks, Queues (`collections.deque`).
+*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors, Index-distance tracking hashes, Matrix slice rebuilding, Last-In-First-Out (LIFO) parsing loops, Two-pass frequency counting hashes, Backward pointer insertions, Fast/Slow pointer scanning, Binary space partition search, Queue data streaming rotation templates.
+*   **Optimization Focus:** Formulating modular interface blueprints that restructure data streams internally without changing the constant time performance parameters of external pipeline actions.
 
 ---
 
