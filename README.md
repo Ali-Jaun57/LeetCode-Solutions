@@ -38,6 +38,7 @@ Welcome to my central tracking repository for daily data structures and algorith
 | 733 | 🟢 Easy | [Flood Fill](https://leetcode.com) | 2D Matrix / Recursive Depth-First Search | $\mathcal{O}(N)$ | $\mathcal{O}(N)$ |
 | 617 | 🟢 Easy | [Merge Two Binary Trees](https://leetcode.com) | Binary Trees / Layered Branch Recursion | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
 | 200 | 🟡 Medium | [Number of Islands](https://leetcode.com) | 2D Grid Map / Linear Grid-Scanning DFS | $\mathcal{O}(m \times n)$ | $\mathcal{O}(m \times n)$ |
+| 1091 | 🟡 Medium | [Shortest Path in Binary Matrix](https://leetcode.com) | Breadth-First Search / Layered Queue Ripples | $\mathcal{O}(n^2)$ | $\mathcal{O}(n^2)$ |
 
 ---
 
@@ -52,9 +53,9 @@ This repository is built for continuous optimization. If you want to benchmark y
 ---
 
 ## 📈 Technical Skill Milestones
-*   **Data Structures Mastered:** Arrays, 2D Matrices (Grids), Strings, Hash Maps (Dictionaries), Hash Sets, Linked Lists, Stacks, Queues (`collections.deque`), Binary Trees, Connected Component Graphs.
-*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors, Index-distance tracking hashes, Matrix slice rebuilding, Last-In-First-Out (LIFO) parsing loops, Two-pass frequency counting hashes, Backward pointer insertions, Fast/Slow pointer scanning, Binary space partition search, Queue data streaming rotation templates, Matrix neighbor recursion mechanics, Hierarchical tree branch overlay execution, Multi-layer drone grid scanning.
-*   **Optimization Focus:** Coupling sequential matrix grid sweeps with linear in-place structural modification flags to prevent computational backtracking overhead.
+*   **Data Structures Mastered:** Arrays, 2D Matrices (Grids), Strings, Hash Maps (Dictionaries), Hash Sets, Linked Lists, Stacks, Queues (`collections.deque`), Binary Trees, Connected Component Graphs, Double-Ended Ring Pipelines.
+*   **Algorithmic Frameworks:** Linear scanning, Single-pass lookups, Multi-index array comparisons, Set deduplication, Vertical grid matrices, Dummy node anchors, Index-distance tracking hashes, Matrix slice rebuilding, Last-In-First-Out (LIFO) parsing loops, Two-pass frequency counting hashes, Backward pointer insertions, Fast/Slow pointer scanning, Binary space partition search, Queue data streaming rotation templates, Matrix neighbor recursion mechanics, Hierarchical tree branch overlay execution, Multi-layer drone grid scanning, Layered Breadth-First Search (BFS) coordinate expansion.
+*   **Optimization Focus:** Implementing chained comparison index boundary guards and constant-time double-ended queue extractions ($\mathcal{O}(1)$ `popleft`) to solve spatial navigation matrices in single-pass quadratic runtimes ($\mathcal{O}(n^2)$ total grid area size boundaries).
 
 ---
 
